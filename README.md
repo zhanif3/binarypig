@@ -3,6 +3,14 @@ BinaryPig
 
 Malware Processing and Analytics over Pig, Exploration through Django, Twitter Bootstrap, and Elasticsearch
 
+## Mailing List
+
+Support, feature requests, and other commentary relating to BinaryPig is located at: https://groups.google.com/forum/#!forum/binarypig
+
+## Prerequisite Infrastructure
+
+This code assumes the existance of a Hadoop cluster of CDH3u5 or equivalent.
+
 ## Pig Libaries and Scripts
 
 ### Building BinaryPig JAR
